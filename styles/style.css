@@ -1,0 +1,14 @@
+body {
+  font-family: 'Fira Code', monospace;
+}
+
+.olympics-map {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.medal-map-001 {
+  /* border: 1px solid #000; */
+}
