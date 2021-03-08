@@ -10,5 +10,5 @@ body {
 }
 
 .medal-map-001 {
-  /* border: 1px solid #000; */
+  border-block-end: 1px dashed #ccc;
 }

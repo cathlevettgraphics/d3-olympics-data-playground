@@ -63,10 +63,16 @@ async function drawCloropleth() {
   const metricValues = Object.values(totalMedals);
   // extract smallest /largest value
   const metricValuesExtent = d3.extent(metricValues);
+
+  // const colorScale = d3
+  //   .scaleLinear()
+  //   .domain([metricValuesExtent[0], metricValuesExtent[1]])
+  //   .range(['#d9ed92', '#76c893']);
+
   const colorScale = d3
     .scaleLinear()
-    .domain([metricValuesExtent[0], metricValuesExtent[1]])
-    .range(['#d9ed92', '#76c893']);
+    .domain([500, 1000, 1500, 2000, 2700])
+    .range(['#ccff33', '#9ef01a', '#70e000', '#38b000', '#38b000']);
 
   // draw map
   const countries = bounds
@@ -79,20 +85,23 @@ async function drawCloropleth() {
     .attr('fill', (d) => {
       const metricValue = totalMedals[countryIdAccessor(d)];
       if (typeof metricValue === 'undefined' || metricValue === 0) {
-        return '#efefef';
+        return '#fff';
       }
+
       return colorScale(metricValue);
     })
     .attr('stroke-width', 0.5)
-    .attr('stroke', '#bbb');
+    .attr('stroke', (d) => {
+      if (countryNameAccessor(d) === 'Antarctica') {
+        return '#fff';
+      }
+      return '#bbb';
+    });
 
   // create legend
   const keyGroup = map
     .append('g')
-    .attr(
-      'transform',
-      `translate(${120}, ${dimensions.boundedHeight / 2 + 125})`,
-    );
+    .attr('transform', `translate(${120}, ${dimensions.boundedHeight / 2})`);
 
   const keyTitle = keyGroup
     .append('text')
@@ -108,6 +117,8 @@ async function drawCloropleth() {
     .attr('class', 'key-byline')
     .text('all time summer games');
 
+  /*
+  GRADIENT SCALE BAR
   // create color bar
   const defs = map.append('defs');
   const keyGradiendId = 'key-gradient';
@@ -148,6 +159,36 @@ async function drawCloropleth() {
     .attr('y', keyHeight / 2 + 14)
     .text(`${metricValuesExtent[0]}`)
     .style('text-anchor', 'end');
+    */
+
+  // create boxes for each color
+  // BUCKETS SCALE BAR
+  const keyScale = keyGroup.append('g');
+  const keys = ['500', '1000', '1500', '2000'];
+  const keyLabels = ['< 500', '1,000', '1,500', '> 2,000'];
+
+  // Add one dot in the legend for each bucket
+  keyScale
+    .selectAll('keyDots')
+    .data(keys)
+    .enter()
+    .append('circle')
+    .attr('cx', -50)
+    .attr('cy', (d, i) => 30 + i * 25) // 32 is first dot. 25 is the distance between
+    .attr('r', 7)
+    .style('fill', (d) => colorScale(d));
+
+  keyScale
+    .selectAll('keyLabels')
+    .data(keyLabels)
+    .enter()
+    .append('text')
+    .attr('x', -30)
+    .attr('y', (d, i) => 32 + i * 25) // 32 is first dot. 25 is the distance between
+    .style('fill', '#333')
+    .text((d) => d)
+    .attr('text-anchor', 'left')
+    .style('alignment-baseline', 'middle');
 }
 
 drawCloropleth();
