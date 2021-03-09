@@ -6,7 +6,7 @@ async function drawCloropleth() {
 
   // get data
   const dataset = await d3.csv('./../data/medals.csv');
-  console.log({ dataset });
+  // console.log({ dataset });
 
   // get name and id data
   const countryNameAccessor = (d) => d.properties['NAME'];
@@ -74,7 +74,7 @@ async function drawCloropleth() {
     .domain([metricValuesExtent[0], metricValuesExtent[1]])
     .range(['#ccff33', '#9ef01a', '#70e000', '#38b000']);
 
-  console.log(colorScale.domain());
+  // console.log(colorScale.domain());
 
   // draw map
   const countries = bounds
@@ -191,6 +191,42 @@ async function drawCloropleth() {
     .text((d) => d)
     .attr('text-anchor', 'left')
     .style('alignment-baseline', 'middle');
+
+  // Set interactions
+  countries.on('mouseenter', onMouseEnter).on('mouseleave', onMouseLeave);
+  const tooltip = d3.select('#tooltip-001');
+
+  function onMouseEnter(e, datum) {
+    tooltip.style('opacity', 1);
+
+    // change path color
+    // TODO add element on top[ of exixting
+    d3.select(this)
+      .style('stroke', '#333')
+      .style('stroke-width', 2)
+      .style('stroke-linecap', 'round');
+
+    // show data
+    const metricValue = totalMedals[countryIdAccessor(datum)];
+    tooltip.select('#country').text(countryNameAccessor(datum));
+    tooltip.select('#value').text(`${d3.format(',')(metricValue || 0)}`);
+
+    // Get centroids and position tooltip
+    const [centerX, centerY] = pathGenerator.centroid(datum);
+
+    const x = centerX + dimensions.margin.left;
+    const y = centerY + dimensions.margin.top;
+
+    tooltip.style(
+      'transform',
+      `translate(` + `calc( -50% + ${x}px),` + `calc(-100% + ${y}px)` + `)`,
+    );
+  }
+
+  function onMouseLeave(e, datum) {
+    tooltip.style('opacity', 0);
+    d3.select(this).style('stroke', '#bbb').style('stroke-width', 0.5);
+  }
 }
 
 drawCloropleth();

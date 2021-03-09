@@ -9,7 +9,19 @@ body {
   align-items: center;
 }
 
-.medal-map-001 {
-  border-block-end: 1px dashed #ccc;
-  margin-block-end: 20px;
+.tooltip-001 {
+  border: 2px solid #000;
+  width: 300px;
+  padding: 10px 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  opacity: 0;
+}
+
+.tooltip-country {
+  margin-block-end: 3px;
 }
