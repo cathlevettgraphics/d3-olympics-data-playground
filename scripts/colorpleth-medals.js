@@ -70,9 +70,11 @@ async function drawCloropleth() {
   //   .range(['#d9ed92', '#76c893']);
 
   const colorScale = d3
-    .scaleLinear()
-    .domain([500, 1000, 1500, 2000, 2700])
-    .range(['#ccff33', '#9ef01a', '#70e000', '#38b000', '#38b000']);
+    .scaleQuantize()
+    .domain([metricValuesExtent[0], metricValuesExtent[1]])
+    .range(['#ccff33', '#9ef01a', '#70e000', '#38b000']);
+
+  console.log(colorScale.domain());
 
   // draw map
   const countries = bounds

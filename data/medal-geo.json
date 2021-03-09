@@ -1,0 +1,1342 @@
+[
+  {
+    "Team": "United States of America",
+    "ioc-code": "USA",
+    "gold": 1022,
+    "silver": 795,
+    "bronze": 706,
+    "total": 2523,
+    "latitude": 37.09024,
+    "longitude": -95.712891
+  },
+  {
+    "Team": "Russia",
+    "ioc-code": "RUS",
+    "gold": 395,
+    "silver": 319,
+    "bronze": 296,
+    "total": 1010,
+    "latitude": 61.52401,
+    "longitude": 105.318756
+  },
+  {
+    "Team": "United Kingdom",
+    "ioc-code": "GBR",
+    "gold": 263,
+    "silver": 295,
+    "bronze": 293,
+    "total": 851,
+    "latitude": 55.378051,
+    "longitude": -3.435973
+  },
+  {
+    "Team": "France",
+    "ioc-code": "FRA",
+    "gold": 212,
+    "silver": 241,
+    "bronze": 263,
+    "total": 716,
+    "latitude": 46.227638,
+    "longitude": 2.213749
+  },
+  {
+    "Team": "Germany",
+    "ioc-code": "DEU",
+    "gold": 191,
+    "silver": 194,
+    "bronze": 230,
+    "total": 615,
+    "latitude": 51.165691,
+    "longitude": 10.451526
+  },
+  {
+    "Team": "Italy",
+    "ioc-code": "ITA",
+    "gold": 206,
+    "silver": 178,
+    "bronze": 193,
+    "total": 577,
+    "latitude": 41.87194,
+    "longitude": 12.56738
+  },
+  {
+    "Team": "China",
+    "ioc-code": "CHN",
+    "gold": 224,
+    "silver": 167,
+    "bronze": 155,
+    "total": 546,
+    "latitude": 35.86166,
+    "longitude": 104.195397
+  },
+  {
+    "Team": "Australia",
+    "ioc-code": "AUS",
+    "gold": 147,
+    "silver": 163,
+    "bronze": 187,
+    "total": 497,
+    "latitude": -25.274398,
+    "longitude": 133.775136
+  },
+  {
+    "Team": "Sweden",
+    "ioc-code": "SWE",
+    "gold": 145,
+    "silver": 170,
+    "bronze": 179,
+    "total": 494,
+    "latitude": 60.128161,
+    "longitude": 18.643501
+  },
+  {
+    "Team": "Hungary",
+    "ioc-code": "HUN",
+    "gold": 175,
+    "silver": 147,
+    "bronze": 169,
+    "total": 491,
+    "latitude": 47.162494,
+    "longitude": 19.503304
+  },
+  {
+    "Team": "Japan",
+    "ioc-code": "JPN",
+    "gold": 142,
+    "silver": 136,
+    "bronze": 161,
+    "total": 439,
+    "latitude": 36.204824,
+    "longitude": 138.252924
+  },
+  {
+    "Team": "Romania",
+    "ioc-code": "ROU",
+    "gold": 89,
+    "silver": 94,
+    "bronze": 121,
+    "total": 304,
+    "latitude": 45.943161,
+    "longitude": 24.96676
+  },
+  {
+    "Team": "Finland",
+    "ioc-code": "FIN",
+    "gold": 101,
+    "silver": 85,
+    "bronze": 117,
+    "total": 303,
+    "latitude": 61.92411,
+    "longitude": 25.748151
+  },
+  {
+    "Team": "Canada",
+    "ioc-code": "CAN",
+    "gold": 64,
+    "silver": 102,
+    "bronze": 136,
+    "total": 302,
+    "latitude": 56.130366,
+    "longitude": -106.346771
+  },
+  {
+    "Team": "Netherlands",
+    "ioc-code": "NLD",
+    "gold": 85,
+    "silver": 92,
+    "bronze": 108,
+    "total": 285,
+    "latitude": 52.132633,
+    "longitude": 5.291266
+  },
+  {
+    "Team": "Poland",
+    "ioc-code": "POL",
+    "gold": 68,
+    "silver": 84,
+    "bronze": 132,
+    "total": 284,
+    "latitude": 51.919438,
+    "longitude": 19.145136
+  },
+  {
+    "Team": "South Korea",
+    "ioc-code": "KOR",
+    "gold": 90,
+    "silver": 87,
+    "bronze": 90,
+    "total": 267,
+    "latitude": 35.907757,
+    "longitude": 127.766922
+  },
+  {
+    "Team": "Cuba",
+    "ioc-code": "CUB",
+    "gold": 78,
+    "silver": 68,
+    "bronze": 80,
+    "total": 226,
+    "latitude": 21.521757,
+    "longitude": -77.781167
+  },
+  {
+    "Team": "Bulgaria",
+    "ioc-code": "BGR",
+    "gold": 51,
+    "silver": 87,
+    "bronze": 80,
+    "total": 218,
+    "latitude": 42.733883,
+    "longitude": 25.48583
+  },
+  {
+    "Team": "Denmark",
+    "ioc-code": "DNK",
+    "gold": 45,
+    "silver": 74,
+    "bronze": 75,
+    "total": 194,
+    "latitude": 56.26392,
+    "longitude": 9.501785
+  },
+  {
+    "Team": "Switzerland",
+    "ioc-code": "CHE",
+    "gold": 50,
+    "silver": 75,
+    "bronze": 67,
+    "total": 192,
+    "latitude": 46.818188,
+    "longitude": 8.227512
+  },
+  {
+    "Team": "Norway",
+    "ioc-code": "NOR",
+    "gold": 56,
+    "silver": 49,
+    "bronze": 47,
+    "total": 152,
+    "latitude": 60.472024,
+    "longitude": 8.468946
+  },
+  {
+    "Team": "Spain",
+    "ioc-code": "ESP",
+    "gold": 45,
+    "silver": 64,
+    "bronze": 41,
+    "total": 150,
+    "latitude": 40.463667,
+    "longitude": -3.74922
+  },
+  {
+    "Team": "Belgium",
+    "ioc-code": "BEL",
+    "gold": 40,
+    "silver": 53,
+    "bronze": 55,
+    "total": 148,
+    "latitude": 50.503887,
+    "longitude": 4.469936
+  },
+  {
+    "Team": "Czech Republic",
+    "ioc-code": "CZE",
+    "gold": 49,
+    "silver": 49,
+    "bronze": 45,
+    "total": 143,
+    "latitude": 49.817492,
+    "longitude": 15.472962
+  },
+  {
+    "Team": "Brazil",
+    "ioc-code": "BRA",
+    "gold": 30,
+    "silver": 36,
+    "bronze": 63,
+    "total": 129,
+    "latitude": -14.235004,
+    "longitude": -51.92528
+  },
+  {
+    "Team": "Ukraine",
+    "ioc-code": "UKR",
+    "gold": 34,
+    "silver": 30,
+    "bronze": 56,
+    "total": 120,
+    "latitude": 48.379433,
+    "longitude": 31.16558
+  },
+  {
+    "Team": "New Zealand",
+    "ioc-code": "NZL",
+    "gold": 46,
+    "silver": 27,
+    "bronze": 44,
+    "total": 117,
+    "latitude": -40.900557,
+    "longitude": 174.885971
+  },
+  {
+    "Team": "Greece",
+    "ioc-code": "GRC",
+    "gold": 33,
+    "silver": 43,
+    "bronze": 40,
+    "total": 116,
+    "latitude": 39.074208,
+    "longitude": 21.824312
+  },
+  {
+    "Team": "Kenya",
+    "ioc-code": "KEN",
+    "gold": 31,
+    "silver": 38,
+    "bronze": 34,
+    "total": 103,
+    "latitude": -0.023559,
+    "longitude": 37.906193
+  },
+  {
+    "Team": "Turkey",
+    "ioc-code": "TUR",
+    "gold": 39,
+    "silver": 24,
+    "bronze": 28,
+    "total": 91,
+    "latitude": 38.963745,
+    "longitude": 35.243322
+  },
+  {
+    "Team": "Republic of Serbia",
+    "ioc-code": "SRB",
+    "gold": 28,
+    "silver": 31,
+    "bronze": 31,
+    "total": 90,
+    "latitude": 44.016521,
+    "longitude": 21.005859
+  },
+  {
+    "Team": "Austria",
+    "ioc-code": "AUT",
+    "gold": 18,
+    "silver": 33,
+    "bronze": 36,
+    "total": 87,
+    "latitude": 47.516231,
+    "longitude": 14.550072
+  },
+  {
+    "Team": "South Africa",
+    "ioc-code": "ZAF",
+    "gold": 26,
+    "silver": 31,
+    "bronze": 29,
+    "total": 86,
+    "latitude": -30.559482,
+    "longitude": 22.937506
+  },
+  {
+    "Team": "Belarus",
+    "ioc-code": "BLR",
+    "gold": 12,
+    "silver": 27,
+    "bronze": 39,
+    "total": 78,
+    "latitude": 53.709807,
+    "longitude": 27.953389
+  },
+  {
+    "Team": "Jamaica",
+    "ioc-code": "JAM",
+    "gold": 22,
+    "silver": 35,
+    "bronze": 21,
+    "total": 78,
+    "latitude": 18.109581,
+    "longitude": -77.297508
+  },
+  {
+    "Team": "Argentina",
+    "ioc-code": "ARG",
+    "gold": 21,
+    "silver": 25,
+    "bronze": 28,
+    "total": 74,
+    "latitude": -38.416097,
+    "longitude": -63.616672
+  },
+  {
+    "Team": "Iran",
+    "ioc-code": "IRN",
+    "gold": 21,
+    "silver": 21,
+    "bronze": 27,
+    "total": 69,
+    "latitude": 32.427908,
+    "longitude": 53.688046
+  },
+  {
+    "Team": "Mexico",
+    "ioc-code": "MEX",
+    "gold": 13,
+    "silver": 24,
+    "bronze": 32,
+    "total": 69,
+    "latitude": 23.634501,
+    "longitude": -102.552784
+  },
+  {
+    "Team": "Kazakhstan",
+    "ioc-code": "KAZ",
+    "gold": 15,
+    "silver": 21,
+    "bronze": 28,
+    "total": 64,
+    "latitude": 48.019573,
+    "longitude": 66.923684
+  },
+  {
+    "Team": "Czech Republic",
+    "ioc-code": "CZE",
+    "gold": 15,
+    "silver": 17,
+    "bronze": 24,
+    "total": 56,
+    "latitude": 49.817492,
+    "longitude": 15.472962
+  },
+  {
+    "Team": "Ethiopia",
+    "ioc-code": "ETH",
+    "gold": 22,
+    "silver": 11,
+    "bronze": 21,
+    "total": 54,
+    "latitude": 9.145,
+    "longitude": 40.489673
+  },
+  {
+    "Team": "North Korea",
+    "ioc-code": "PRK",
+    "gold": 16,
+    "silver": 16,
+    "bronze": 22,
+    "total": 54,
+    "latitude": 40.339852,
+    "longitude": 127.510093
+  },
+  {
+    "Team": "Azerbaijan",
+    "ioc-code": "AZE",
+    "gold": 7,
+    "silver": 11,
+    "bronze": 24,
+    "total": 42,
+    "latitude": 40.143105,
+    "longitude": 47.576927
+  },
+  {
+    "Team": "Estonia",
+    "ioc-code": "EST",
+    "gold": 9,
+    "silver": 9,
+    "bronze": 16,
+    "total": 34,
+    "latitude": 58.595272,
+    "longitude": 25.013607
+  },
+  {
+    "Team": "Croatia",
+    "ioc-code": "HRV",
+    "gold": 11,
+    "silver": 10,
+    "bronze": 12,
+    "total": 33,
+    "latitude": 45.1,
+    "longitude": 15.2
+  },
+  {
+    "Team": "Thailand",
+    "ioc-code": "THA",
+    "gold": 9,
+    "silver": 8,
+    "bronze": 16,
+    "total": 33,
+    "latitude": 15.870032,
+    "longitude": 100.992541
+  },
+  {
+    "Team": "Egypt",
+    "ioc-code": "EGY",
+    "gold": 7,
+    "silver": 10,
+    "bronze": 15,
+    "total": 32,
+    "latitude": 26.820553,
+    "longitude": 30.802498
+  },
+  {
+    "Team": "Georgia",
+    "ioc-code": "GEO",
+    "gold": 8,
+    "silver": 7,
+    "bronze": 17,
+    "total": 32,
+    "latitude": 42.315407,
+    "longitude": 43.356892
+  },
+  {
+    "Team": "Indonesia",
+    "ioc-code": "IDN",
+    "gold": 7,
+    "silver": 13,
+    "bronze": 12,
+    "total": 32,
+    "latitude": -0.789275,
+    "longitude": 113.921327
+  },
+  {
+    "Team": "Ireland",
+    "ioc-code": "IRL",
+    "gold": 9,
+    "silver": 10,
+    "bronze": 12,
+    "total": 31,
+    "latitude": 53.41291,
+    "longitude": -8.24389
+  },
+  {
+    "Team": "Uzbekistan",
+    "ioc-code": "UZB",
+    "gold": 7,
+    "silver": 6,
+    "bronze": 18,
+    "total": 31,
+    "latitude": 41.377491,
+    "longitude": 64.585262
+  },
+  {
+    "Team": "Colombia",
+    "ioc-code": "COL",
+    "gold": 5,
+    "silver": 9,
+    "bronze": 14,
+    "total": 28,
+    "latitude": 4.570868,
+    "longitude": -74.297333
+  },
+  {
+    "Team": "India",
+    "ioc-code": "IND",
+    "gold": 9,
+    "silver": 7,
+    "bronze": 12,
+    "total": 28,
+    "latitude": 20.593684,
+    "longitude": 78.96288
+  },
+  {
+    "Team": "Slovakia",
+    "ioc-code": "SVK",
+    "gold": 9,
+    "silver": 12,
+    "bronze": 7,
+    "total": 28,
+    "latitude": 48.669026,
+    "longitude": 19.699024
+  },
+  {
+    "Team": "Mongolia",
+    "ioc-code": "MNG",
+    "gold": 2,
+    "silver": 10,
+    "bronze": 14,
+    "total": 26,
+    "latitude": 46.862496,
+    "longitude": 103.846656
+  },
+  {
+    "Team": "Lithuania",
+    "ioc-code": "LTU",
+    "gold": 6,
+    "silver": 6,
+    "bronze": 13,
+    "total": 25,
+    "latitude": 55.169438,
+    "longitude": 23.881275
+  },
+  {
+    "Team": "Nigeria",
+    "ioc-code": "NGA",
+    "gold": 3,
+    "silver": 10,
+    "bronze": 12,
+    "total": 25,
+    "latitude": 9.081999,
+    "longitude": 8.675277
+  },
+  {
+    "Team": "Portugal",
+    "ioc-code": "PRT",
+    "gold": 4,
+    "silver": 8,
+    "bronze": 12,
+    "total": 24,
+    "latitude": 39.399872,
+    "longitude": -8.224454
+  },
+  {
+    "Team": "Morocco",
+    "ioc-code": "MAR",
+    "gold": 6,
+    "silver": 5,
+    "bronze": 12,
+    "total": 23,
+    "latitude": 31.791702,
+    "longitude": -7.09262
+  },
+  {
+    "Team": "Slovenia",
+    "ioc-code": "SVN",
+    "gold": 5,
+    "silver": 8,
+    "bronze": 10,
+    "total": 23,
+    "latitude": 46.151241,
+    "longitude": 14.995463
+  },
+  {
+    "Team": "Latvia",
+    "ioc-code": "LVA",
+    "gold": 3,
+    "silver": 11,
+    "bronze": 5,
+    "total": 19,
+    "latitude": 56.879635,
+    "longitude": 24.603189
+  },
+  {
+    "Team": "Trinidad and Tobago",
+    "ioc-code": "TTO",
+    "gold": 3,
+    "silver": 5,
+    "bronze": 11,
+    "total": 19,
+    "latitude": 10.691803,
+    "longitude": -61.222503
+  },
+  {
+    "Team": "Algeria",
+    "ioc-code": "DZA",
+    "gold": 5,
+    "silver": 4,
+    "bronze": 8,
+    "total": 17,
+    "latitude": 28.033886,
+    "longitude": 1.659626
+  },
+  {
+    "Team": "Venezuela",
+    "ioc-code": "VEN",
+    "gold": 2,
+    "silver": 4,
+    "bronze": 9,
+    "total": 15,
+    "latitude": 6.42375,
+    "longitude": -66.58973
+  },
+  {
+    "Team": "Armenia",
+    "ioc-code": "ARM",
+    "gold": 2,
+    "silver": 6,
+    "bronze": 6,
+    "total": 14,
+    "latitude": 40.069099,
+    "longitude": 45.038189
+  },
+  {
+    "Team": "The Bahamas",
+    "ioc-code": "BHS",
+    "gold": 6,
+    "silver": 2,
+    "bronze": 6,
+    "total": 14,
+    "latitude": 25.03428,
+    "longitude": -77.39628
+  },
+  {
+    "Team": "Chile",
+    "ioc-code": "CHL",
+    "gold": 2,
+    "silver": 7,
+    "bronze": 4,
+    "total": 13,
+    "latitude": -35.675147,
+    "longitude": -71.542969
+  },
+  {
+    "Team": "Tunisia",
+    "ioc-code": "TUN",
+    "gold": 4,
+    "silver": 2,
+    "bronze": 7,
+    "total": 13,
+    "latitude": 33.886917,
+    "longitude": 9.537499
+  },
+  {
+    "Team": "Malaysia",
+    "ioc-code": "MYS",
+    "gold": 0,
+    "silver": 7,
+    "bronze": 4,
+    "total": 11,
+    "latitude": 4.210484,
+    "longitude": 101.975766
+  },
+  {
+    "Team": "Pakistan",
+    "ioc-code": "PAK",
+    "gold": 3,
+    "silver": 3,
+    "bronze": 4,
+    "total": 10,
+    "latitude": 30.375321,
+    "longitude": 69.345116
+  },
+  {
+    "Team": "Philippines",
+    "ioc-code": "PHL",
+    "gold": 0,
+    "silver": 3,
+    "bronze": 7,
+    "total": 10,
+    "latitude": 12.879721,
+    "longitude": 121.774017
+  },
+  {
+    "Team": "Uruguay",
+    "ioc-code": "URY",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 6,
+    "total": 10,
+    "latitude": -32.522779,
+    "longitude": -55.765835
+  },
+  {
+    "Team": "Israel",
+    "ioc-code": "ISR",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 7,
+    "total": 9,
+    "latitude": 31.046051,
+    "longitude": 34.851612
+  },
+  {
+    "Team": "Puerto Rico",
+    "ioc-code": "PRI",
+    "gold": 1,
+    "silver": 2,
+    "bronze": 6,
+    "total": 9,
+    "latitude": 18.220833,
+    "longitude": -66.590149
+  },
+  {
+    "Team": "Zimbabwe",
+    "ioc-code": "ZWE",
+    "gold": 3,
+    "silver": 4,
+    "bronze": 1,
+    "total": 8,
+    "latitude": -19.015438,
+    "longitude": 29.154857
+  },
+  {
+    "Team": "Dominican Republic",
+    "ioc-code": "DOM",
+    "gold": 3,
+    "silver": 2,
+    "bronze": 2,
+    "total": 7,
+    "latitude": 18.735693,
+    "longitude": -70.162651
+  },
+  {
+    "Team": "Uganda",
+    "ioc-code": "UGA",
+    "gold": 2,
+    "silver": 3,
+    "bronze": 2,
+    "total": 7,
+    "latitude": 1.373333,
+    "longitude": 32.290275
+  },
+  {
+    "Team": "Cameroon",
+    "ioc-code": "CMR",
+    "gold": 3,
+    "silver": 1,
+    "bronze": 2,
+    "total": 6,
+    "latitude": 7.369722,
+    "longitude": 12.354722
+  },
+  {
+    "Team": "Moldova",
+    "ioc-code": "MDA",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 3,
+    "total": 5,
+    "latitude": 47.411631,
+    "longitude": 28.369885
+  },
+  {
+    "Team": "Qatar",
+    "ioc-code": "QAT",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 4,
+    "total": 5,
+    "latitude": 25.354826,
+    "longitude": 51.183884
+  },
+  {
+    "Team": "Singapore",
+    "ioc-code": "SGP",
+    "gold": 1,
+    "silver": 2,
+    "bronze": 2,
+    "total": 5,
+    "latitude": 1.352083,
+    "longitude": 103.819836
+  },
+  {
+    "Team": "Vietnam",
+    "ioc-code": "VNM",
+    "gold": 1,
+    "silver": 3,
+    "bronze": 1,
+    "total": 5,
+    "latitude": 14.058324,
+    "longitude": 108.277199
+  },
+  {
+    "Team": "Costa Rica",
+    "ioc-code": "CRI",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 2,
+    "total": 4,
+    "latitude": 9.748917,
+    "longitude": -83.753428
+  },
+  {
+    "Team": "Ghana",
+    "ioc-code": "GHA",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 3,
+    "total": 4,
+    "latitude": 7.946527,
+    "longitude": -1.023194
+  },
+  {
+    "Team": "Iceland",
+    "ioc-code": "ISL",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 2,
+    "total": 4,
+    "latitude": 64.963051,
+    "longitude": -19.020835
+  },
+  {
+    "Team": "Kyrgyzstan",
+    "ioc-code": "KGZ",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 3,
+    "total": 4,
+    "latitude": 41.20438,
+    "longitude": 74.766098
+  },
+  {
+    "Team": "Lebanon",
+    "ioc-code": "LBN",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 2,
+    "total": 4,
+    "latitude": 33.854721,
+    "longitude": 35.862285
+  },
+  {
+    "Team": "Namibia",
+    "ioc-code": "NAM",
+    "gold": 0,
+    "silver": 4,
+    "bronze": 0,
+    "total": 4,
+    "latitude": -22.95764,
+    "longitude": 18.49041
+  },
+  {
+    "Team": "Peru",
+    "ioc-code": "PER",
+    "gold": 1,
+    "silver": 3,
+    "bronze": 0,
+    "total": 4,
+    "latitude": -9.189967,
+    "longitude": -75.015152
+  },
+  {
+    "Team": "Tajikistan",
+    "ioc-code": "TJK",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 2,
+    "total": 4,
+    "latitude": 38.861034,
+    "longitude": 71.276093
+  },
+  {
+    "Team": "Bahrain",
+    "ioc-code": "BHR",
+    "gold": 2,
+    "silver": 1,
+    "bronze": 0,
+    "total": 3,
+    "latitude": 25.930414,
+    "longitude": 50.637772
+  },
+  {
+    "Team": "Ivory Coast",
+    "ioc-code": "CIV",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 1,
+    "total": 3,
+    "latitude": "#N/A",
+    "longitude": "#N/A"
+  },
+  {
+    "Team": "Panama",
+    "ioc-code": "PAN",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 2,
+    "total": 3,
+    "latitude": 8.537981,
+    "longitude": -80.782127
+  },
+  {
+    "Team": "Saudi Arabia",
+    "ioc-code": "SAU",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 2,
+    "total": 3,
+    "latitude": 23.885942,
+    "longitude": 45.079162
+  },
+  {
+    "Team": "Syria",
+    "ioc-code": "SYR",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 1,
+    "total": 3,
+    "latitude": 34.802075,
+    "longitude": 38.996815
+  },
+  {
+    "Team": "Afghanistan",
+    "ioc-code": "AFG",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 2,
+    "total": 2,
+    "latitude": 33.93911,
+    "longitude": 67.709953
+  },
+  {
+    "Team": "Burundi",
+    "ioc-code": "BDI",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0,
+    "total": 2,
+    "latitude": -3.373056,
+    "longitude": 29.918886
+  },
+  {
+    "Team": "Ecuador",
+    "ioc-code": "ECU",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0,
+    "total": 2,
+    "latitude": -1.831239,
+    "longitude": -78.183406
+  },
+  {
+    "Team": "Grenada",
+    "ioc-code": "GRD",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0,
+    "total": 2,
+    "latitude": 12.262776,
+    "longitude": -61.604171
+  },
+  {
+    "Team": "Haiti",
+    "ioc-code": "HTI",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 1,
+    "total": 2,
+    "latitude": 18.971187,
+    "longitude": -72.285215
+  },
+  {
+    "Team": "Kuwait",
+    "ioc-code": "KWT",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 2,
+    "total": 2,
+    "latitude": 29.31166,
+    "longitude": 47.481766
+  },
+  {
+    "Team": "Luxembourg",
+    "ioc-code": "LUX",
+    "gold": 1,
+    "silver": 1,
+    "bronze": 0,
+    "total": 2,
+    "latitude": 49.815273,
+    "longitude": 6.129583
+  },
+  {
+    "Team": "Mozambique",
+    "ioc-code": "MOZ",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1,
+    "total": 2,
+    "latitude": -18.665695,
+    "longitude": 35.529562
+  },
+  {
+    "Team": "Niger",
+    "ioc-code": "NER",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 1,
+    "total": 2,
+    "latitude": 17.607789,
+    "longitude": 8.081666
+  },
+  {
+    "Team": "Sri Lanka",
+    "ioc-code": "LKA",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 0,
+    "total": 2,
+    "latitude": 7.873054,
+    "longitude": 80.771797
+  },
+  {
+    "Team": "Suriname",
+    "ioc-code": "SUR",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1,
+    "total": 2,
+    "latitude": 3.919305,
+    "longitude": -56.027783
+  },
+  {
+    "Team": "United Republic of Tanzania",
+    "ioc-code": "TZA",
+    "gold": 0,
+    "silver": 2,
+    "bronze": 0,
+    "total": 2,
+    "latitude": -6.369028,
+    "longitude": 34.888822
+  },
+  {
+    "Team": "United Arab Emirates",
+    "ioc-code": "ARE",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1,
+    "total": 2,
+    "latitude": 23.424076,
+    "longitude": 53.847818
+  },
+  {
+    "Team": "Zambia",
+    "ioc-code": "ZMB",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 1,
+    "total": 2,
+    "latitude": -13.133897,
+    "longitude": 27.849332
+  },
+  {
+    "Team": "Barbados",
+    "ioc-code": "BRB",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1,
+    "latitude": 13.193887,
+    "longitude": -59.543198
+  },
+  {
+    "Team": "Bermuda",
+    "ioc-code": "BMU",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1,
+    "latitude": 32.321384,
+    "longitude": -64.75737
+  },
+  {
+    "Team": "Botswana",
+    "ioc-code": "BWA",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1,
+    "latitude": -22.328474,
+    "longitude": 24.684866
+  },
+  {
+    "Team": "Cyprus",
+    "ioc-code": "CYP",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1,
+    "latitude": 35.126413,
+    "longitude": 33.429859
+  },
+  {
+    "Team": "Djibouti",
+    "ioc-code": "DJI",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1,
+    "latitude": 11.825138,
+    "longitude": 42.590275
+  },
+  {
+    "Team": "Eritrea",
+    "ioc-code": "ERI",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1,
+    "latitude": 15.179384,
+    "longitude": 39.782334
+  },
+  {
+    "Team": "Fiji",
+    "ioc-code": "FJI",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0,
+    "total": 1,
+    "latitude": -16.578193,
+    "longitude": 179.414413
+  },
+  {
+    "Team": "Gabon",
+    "ioc-code": "GAB",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1,
+    "latitude": -0.803689,
+    "longitude": 11.609444
+  },
+  {
+    "Team": "Guatemala",
+    "ioc-code": "GTM",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1,
+    "latitude": 15.783471,
+    "longitude": -90.230759
+  },
+  {
+    "Team": "Guyana",
+    "ioc-code": "GUY",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1,
+    "latitude": 4.860416,
+    "longitude": -58.93018
+  },
+  {
+    "Team": "Iraq",
+    "ioc-code": "IRQ",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1,
+    "latitude": 33.223191,
+    "longitude": 43.679291
+  },
+  {
+    "Team": "Jordan",
+    "ioc-code": "JOR",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0,
+    "total": 1,
+    "latitude": 30.585164,
+    "longitude": 36.238414
+  },
+  {
+    "Team": "Kosovo",
+    "ioc-code": "KOS",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0,
+    "total": 1,
+    "latitude": 42.602636,
+    "longitude": 20.902977
+  },
+  {
+    "Team": "Mauritius",
+    "ioc-code": "MUS",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1,
+    "latitude": -20.348404,
+    "longitude": 57.552152
+  },
+  {
+    "Team": "Montenegro",
+    "ioc-code": "MNE",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1,
+    "latitude": 42.708678,
+    "longitude": 19.37439
+  },
+  {
+    "Team": "Macedonia",
+    "ioc-code": "MKD",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1,
+    "latitude": 41.608635,
+    "longitude": 21.745275
+  },
+  {
+    "Team": "Paraguay",
+    "ioc-code": "PRY",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1,
+    "latitude": -23.442503,
+    "longitude": -58.443832
+  },
+  {
+    "Team": "Samoa",
+    "ioc-code": "WSM",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1,
+    "latitude": -13.759029,
+    "longitude": -172.104629
+  },
+  {
+    "Team": "Senegal",
+    "ioc-code": "SEN",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1,
+    "latitude": 14.497401,
+    "longitude": -14.452362
+  },
+  {
+    "Team": "Sudan",
+    "ioc-code": "SDN",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1,
+    "latitude": 12.862807,
+    "longitude": 30.217636
+  },
+  {
+    "Team": "Togo",
+    "ioc-code": "TGO",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1,
+    "latitude": 8.619543,
+    "longitude": 0.824782
+  },
+  {
+    "Team": "Tonga",
+    "ioc-code": "TON",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1,
+    "latitude": -21.178986,
+    "longitude": -175.198242
+  },
+  {
+    "Team": "British Virgin Islands",
+    "ioc-code": "VGB",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1,
+    "latitude": 18.420695,
+    "longitude": -64.639968
+  },
+  {
+    "Team": "Liechtenstein",
+    "ioc-code": "LIE",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 0,
+    "total": 0,
+    "latitude": 47.166,
+    "longitude": 9.555373
+  }
+]

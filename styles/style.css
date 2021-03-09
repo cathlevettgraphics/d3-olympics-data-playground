@@ -11,4 +11,5 @@ body {
 
 .medal-map-001 {
   border-block-end: 1px dashed #ccc;
+  margin-block-end: 20px;
 }
